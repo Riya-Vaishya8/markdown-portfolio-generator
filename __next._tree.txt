@@ -1,0 +1,2 @@
+:HL["/markdown-portfolio-generator/_next/static/chunks/ce9d2e46d8042b21.css","style"]
+0:{"buildId":"qNoGvNHTE6r_qGjWOLjme","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
